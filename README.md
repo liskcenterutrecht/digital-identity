@@ -5,6 +5,7 @@ We would like to start a project to build a Digital Identity solution for the LC
 It will be an experiment to learn from and if possible will be used as an experiment at Lisk Center Utrecht. 
 
 What? - Build a digital identity solution for the LCU Community :hammer: 
+
 why?  - To learn, to experiment with, and because we can! 
 
 Projectteam:
