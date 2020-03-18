@@ -1,14 +1,6 @@
-
-# Related Identity Solutions (examples)
-- ULA - Universal Ledger Agent  |  [Github](https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/universal-ledger-agent.md)
-- IOTA Unified Identity Protocol   |   [blog](https://blog.iota.org/the-first-step-towards-a-unified-identity-protocol-7dc3988c8b0e)
-- Lisk PoC - By Jesusthehun (Lisk Discord)  |  [Project description](https://docs.google.com/document/d/1ExvfbiNvwowG7UK9ULxmFVLXfyCYMd85VRV0KjwFMWM/edit)
-
-- 3box | [link](https://3box.io/)
-- Keybase | [link](https://keybase.io/) 
-- IRMA | [link](https://irma.app/)
-- Hyperledger Indy | [link](https://www.hyperledger.org/projects/hyperledger-indy) [Github](https://github.com/hyperledger/indy-sdk),
-- Hyperledger Aries | [link](https://www.hyperledger.org/projects/aries)
+# Start your DID Journey
+- [A curated list of self-sovereign identity resources by Karim & Timo](https://github.com/karimStekelenburg/awesome-self-sovereign-identity)
+- [A Short Primer for Decentralized Identifiers](https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/did-primer.md)
 
 # Inspiration 
 ### Meetups Lisk Center Utrecht 
@@ -36,3 +28,16 @@
   - [#3: What Are Decentralized Identifiers (DID)?](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84ZGZiZjk0L3BvZGNhc3QvcnNz&episode=ZGQ4NjJhZDMtNmVkNi1hMGU4LWU5OWUtNGUwNzY0ODBjOTUz&ved=0CAYQzsICahcKEwiIx8ewz6PoAhUAAAAAHQAAAAAQEQ)
   - [#4: ( Part 1/2) How do Decentralized Identifiers (DID) work?](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84ZGZiZjk0L3BvZGNhc3QvcnNz&episode=MzcwZjBkNzctZTNkOS0zNGNkLWI4ZGItYWRkMjY3ZDNlZTA4&ved=0CAQQzsICahcKEwiIx8ewz6PoAhUAAAAAHQAAAAAQEQ)
   - [#5: (Part 2/2) How Do Identity Hubs, Claims, & Verified Credentials Work with DIDs?](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84ZGZiZjk0L3BvZGNhc3QvcnNz&episode=MDY0MzYxZTEtMDVmZS05YmUyLWVlOWUtYWU5NmRjNmE4NzU1&ved=0CAIQkfYCahcKEwiIx8ewz6PoAhUAAAAAHQAAAAAQEQ)
+  
+  
+# Related Identity Solutions (examples)
+- ULA - Universal Ledger Agent  |  [Github](https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/universal-ledger-agent.md)
+- IOTA Unified Identity Protocol   |   [blog](https://blog.iota.org/the-first-step-towards-a-unified-identity-protocol-7dc3988c8b0e)
+- Lisk PoC - By Jesusthehun (Lisk Discord)  |  [Project description](https://docs.google.com/document/d/1ExvfbiNvwowG7UK9ULxmFVLXfyCYMd85VRV0KjwFMWM/edit)
+
+- 3box | [link](https://3box.io/)
+- Keybase | [link](https://keybase.io/) 
+- IRMA | [link](https://irma.app/)
+- Hyperledger Indy | [link](https://www.hyperledger.org/projects/hyperledger-indy) [Github](https://github.com/hyperledger/indy-sdk),
+- Hyperledger Aries | [link](https://www.hyperledger.org/projects/aries)
+
