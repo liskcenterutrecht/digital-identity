@@ -7,6 +7,8 @@
 - 3box | [link](https://3box.io/)
 - Keybase | [link](https://keybase.io/) 
 - IRMA | [link](https://irma.app/)
+- Hyperledger Indy | [link](https://www.hyperledger.org/projects/hyperledger-indy) [Github](https://github.com/hyperledger/indy-sdk),
+- Hyperledger Aries | [link](https://www.hyperledger.org/projects/aries)
 
 # Inspiration 
 ### Meetups Lisk Center Utrecht 
@@ -18,6 +20,13 @@
 - Christopher Allen - Talk | [video](https://www.youtube.com/watch?v=2g6KSv1aeuI)
 - Christopher Allen - The Path to Self-Sovereign Identity | [read](http://www.lifewithalacrity.com/2016/04/the-path-to-self-soverereign-identity.html)
 - David Birch - How to use Identity & the Blockchain | [video](https://www.youtube.com/watch?v=hS15p5V3slg)
+
+### SSI Meetup
+- Self-Sovereign Identity webinars covering a wide range of topics. Very good resource to learn about self-sovereign identity
+
+- [eSSIF-Lab: creating & funding an interoperable SSI infrastructure in Europe – Webinar 52](https://ssimeetup.org/essif-lab-creating-funding-interoperable-ssi-infrastructure-europe-webinar-52/)
+- [Self-Sovereign Identity: Ideology and Architecture – Christopher Allen – Webinar 51](https://ssimeetup.org/self-sovereign-identity-why-we-here-christopher-allen-webinar-51/)
+- [Decentralized identifiers (DIDs) fundamentals – IdentityBook.info – Drummond Reed & Markus Sabadello – Webinar 46](https://ssimeetup.org/decentralized-identifiers-dids-fundamentals-identitybook-info-drummond-reed-markus-sabadello-webinar-46/)
 
 ### Digital Identity Podcast
 - Podcast Series by Selfkey on Digital Identity - [all episodes](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84ZGZiZjk0L3BvZGNhc3QvcnNz&ved=0CAAQ4aUDahcKEwiIx8ewz6PoAhUAAAAAHQAAAAAQDA&hl=nl)
