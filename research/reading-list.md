@@ -1,6 +1,8 @@
 # Start your DID Journey
 - [A curated list of self-sovereign identity resources by Karim & Timo](https://github.com/karimStekelenburg/awesome-self-sovereign-identity)
-- [A Short Primer for Decentralized Identifiers](https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/did-primer.md)
+
+- [A Short Primer about Decentralized Identifiers](https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/did-primer.md)
+- [A Short Primer about Verifiable Credentials](https://github.com/WebOfTrustInfo/rwot8-barcelona/blob/master/topics-and-advance-readings/verifiable-credentials-primer.md)
 
 # Inspiration 
 ### Meetups Lisk Center Utrecht 
