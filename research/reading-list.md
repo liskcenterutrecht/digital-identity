@@ -40,6 +40,12 @@
 - 3box | [link](https://3box.io/)
 - Keybase | [link](https://keybase.io/) 
 - IRMA | [link](https://irma.app/)
-- Hyperledger Indy | [link](https://www.hyperledger.org/projects/hyperledger-indy) [Github](https://github.com/hyperledger/indy-sdk),
+- Hyperledger Indy |  
+  [project description](https://www.hyperledger.org/projects/hyperledger-indy)  
+  [Getting Started guide](https://hyperledger-indy.readthedocs.io/projects/sdk/en/latest/docs/getting-started/index.html)  
+  [Github Indy-SDK](https://github.com/hyperledger/indy-sdk)  
+- Sovrin | [how sovrin works](https://sovrin.org/wp-content/uploads/2018/03/How-Sovrin-Works.pdf)
+- Sovrin | [DIDs, Keys, Credentials, and Agents explained](https://sovrin.org/wp-content/uploads/2019/01/How-DIDs-Keys-Credentials-and-Agents-Work-Together-in-Sovrin-131118.pdf)
 - Hyperledger Aries | [link](https://www.hyperledger.org/projects/aries)
+
 
