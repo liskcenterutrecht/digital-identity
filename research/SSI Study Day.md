@@ -38,3 +38,4 @@ Things to look into:
 3. go through the Lisk code of Jonathan (what is his repo?).
 4. go through Rabo vp-tools workshop.
 5. plan session about comparing the different SSI platforms.
+6. decide on the goal of the project: use lisk-SDK or use a system that is becoming more a industry standard (hyperledger).
