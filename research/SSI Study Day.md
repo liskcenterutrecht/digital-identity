@@ -16,7 +16,7 @@
 - https://github.com/rabobank-blockchain
 - https://github.com/rabobank-blockchain/vp-toolkit
 
-## Notes by Marnix' presentation about vp-toolkit
+### Notes by Marnix' presentation about vp-toolkit
 - npm install
 - hard code yourPrivateKey = master key
 - use for context: always the w3.org credentials
