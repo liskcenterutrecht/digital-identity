@@ -6,7 +6,7 @@
 
 # Inspiration 
 ### Meetups Lisk Center Utrecht 
-- *UPCOMING* Utrecht Blockchain Nights - Digital Identity | [Meetup.com](https://www.meetup.com/LiskCenterUtrecht/events/267874244/)
+- *CANCELLED* Utrecht Blockchain Nights - Digital Identity | [Meetup.com](https://www.meetup.com/LiskCenterUtrecht/events/267874244/)
 - Utrecht Blockchain Nights - Oct 24th 2019 - Rabobank & IOTA | [Meetup.com](https://www.meetup.com/LiskCenterUtrecht/events/264746841/) - [video](https://www.youtube.com/watch?v=7B3IXr-0LGY)
 - Self Sovereign Identity using the blockchain - Sovrin & TYKN | [Meetup.com](https://www.meetup.com/LiskCenterUtrecht/events/260502863/) - [video](https://www.youtube.com/watch?v=vsacB66tMBg)
 
