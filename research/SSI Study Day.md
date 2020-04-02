@@ -31,3 +31,9 @@
 Things to look into:
 - Would it be possible to use a lisk address as did? The uniresolver.io doesn't list lisk.
 - If you are an issuer, you don't want to rely on a central party like uniresolver.io. You rather run a universal resolver node yourself.
+
+## Follow up:
+1. plan session to complete user story document.
+2. talk to BlockDam about their DAO.
+3. go through the Lisk code of Jonathan (what is his repo?).
+4. go through Rabo vp-tools workshop
