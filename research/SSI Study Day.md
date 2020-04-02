@@ -30,3 +30,4 @@
 
 Things to look into:
 - Would it be possible to use a lisk address as did? The uniresolver.io doesn't list lisk.
+- If you are an issuer, you don't want to rely on a central party like uniresolver.io. You rather run a universal resolver node yourself.
