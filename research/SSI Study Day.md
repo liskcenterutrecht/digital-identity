@@ -15,3 +15,14 @@
 - https://tweakers.net/reviews/7768/half-life-alyx-zo-goed-als-we-hoopten.html
 - https://github.com/rabobank-blockchain
 - https://github.com/rabobank-blockchain/vp-toolkit
+
+## Notes by Marnix' presentation about vp-toolkit
+- npm install
+- hard code yourPrivateKey = master key
+- use for context: always the w3.org credentials
+- at type you can write: 'diploma' or 'passport' etc
+- issuer did address must be the same as the one that is signing the credential
+- credentialSubject: the id must be the same as the did that is in the holder id wallet
+- You can add info below givenName. Like, diploma etc.
+- the id of the credentialStatus could be: 'lisk-identity-chain'
+- when creating this credential, a derived key from the masterkey is used.
