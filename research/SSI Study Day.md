@@ -14,3 +14,4 @@
 - https://waag.org/nl/article/de-staat-van-het-internet-2020
 - https://tweakers.net/reviews/7768/half-life-alyx-zo-goed-als-we-hoopten.html
 - https://github.com/rabobank-blockchain
+- https://github.com/rabobank-blockchain/vp-toolkit
