@@ -15,6 +15,7 @@
 - https://tweakers.net/reviews/7768/half-life-alyx-zo-goed-als-we-hoopten.html
 - https://github.com/rabobank-blockchain
 - https://github.com/rabobank-blockchain/vp-toolkit
+- https://smilo.io/ blockchain Caspars teammate works with for KLM challenge
 
 ### Notes by Marnix' presentation about vp-toolkit
 - npm install
