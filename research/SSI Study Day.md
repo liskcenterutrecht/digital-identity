@@ -26,3 +26,4 @@
 - You can add info below givenName. Like, diploma etc.
 - the id of the credentialStatus could be: 'lisk-identity-chain'
 - when creating this credential, a derived key from the masterkey is used.
+- create the credential with: npm run flow
