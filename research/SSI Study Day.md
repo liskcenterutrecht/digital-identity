@@ -27,3 +27,6 @@
 - the id of the credentialStatus could be: 'lisk-identity-chain'
 - when creating this credential, a derived key from the masterkey is used.
 - create the credential with: npm run flow
+
+Things to look into:
+- Would it be possible to use a lisk address as did? The uniresolver.io doesn't list lisk.
