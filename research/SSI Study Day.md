@@ -36,4 +36,5 @@ Things to look into:
 1. plan session to complete user story document.
 2. talk to BlockDam about their DAO.
 3. go through the Lisk code of Jonathan (what is his repo?).
-4. go through Rabo vp-tools workshop
+4. go through Rabo vp-tools workshop.
+5. plan session about comparing the different SSI platforms.
