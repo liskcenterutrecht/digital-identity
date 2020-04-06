@@ -1,16 +1,22 @@
-## Meeting Stand-up User Stories (brainstorm)
+
+# Meeting SSI User Stories Brainstorm
 Learn more about the community [here](https://www.liskcenter.io/community/)
 
+# The Project Process
+
+## Next Meeting (week of eastern)
+---> **First**
+- write down the 3 best use cases for DID
+- comparison between Trustless & Less 
+- Possible attributes of DID
+---> **Follow Up**
+- Blockchain in a day - by Peter
+
+## This meeting
 * Lead = Xinrong Ding (Design Thinker) 
 
-
-### Start meeting
 * Quick recap of Study Day Stories
 * "it is a mixture of solutions and what we want to have"
-
-
-## Why would you want this kind of identity? 
-
 
 # User Stories
 ### Dimensions 
@@ -22,43 +28,43 @@ Learn more about the community [here](https://www.liskcenter.io/community/)
 * Onboarding
 
 #### Identity / DID
-- Establish someones identity 
-- 2 kinds of identities: known (humans) & unknown (only contributors)
+- Establish someones digital identity 
+- 2 kinds of identities: known (humans) & unknown (only contributors) ?
 - Provide "contributing member" credentials
 
 - Establishing identity by peer identification?
 - ID is more like a placeholder
+- DID associates with real life person
 
 - DID is for broader use
 - LCU DID: used for getting specific things (credits, credentials, regulations, etc.)
-Attributes
-- confirm it is use & a digital signature
+- confirm with digital signature
 - acquire project members
-- How to validate a DIDI (e.g. social reputation?) 
 - What matters is what you do (within the community)
-- Which information does need to be validated?
-- reward users knoewledge attestations for attending workshops or seminars
+
+*questions that arise*
+- How to validate a DID (e.g. social reputation?) 
+- Which information is needed to be validated?
+- reward users, knowledge attestations for attending workshops or seminars
 
 **Questions regarding Identity**
-- How to validate the first step?
+- How to validate a DID? 
 - I miss an overview of all community members (and skillset)
 
 #### Attestation / attributes (verifiable credential)
 - Use did to get to know a member better (What that person is interested in, confirmed past project)
-- DID associates with real life person
 - Preferably no multiple ID for one person
 - Digital, signature
-- Lisk center allows a third party to provide attestations 
 - Validation of the attestation (by the lisk center for example)
 - The process by which certain 
 
 **Questions regarding**
 - Rights attached to certain attestation
-
+- How to allow a third party to provide attestations?
 
 #### Technology
-- Requirements --> based on the LiskSDK
-- Being compatible with existing and future solutions
+- Requirements --> based on the [LiskSDK](lisk.io)
+- Being compatible with existing and future solutions 
 
 **Questions regarding Technology**
 - Which existing and future solutions should the network be compatible with?
@@ -69,12 +75,15 @@ Attributes
   - As an LCU members, I want to know what other members are working on so that I can collaborate with them.
 
 - On Chain: Governance of the Identity network 
--- Governing the Identity Network (the rights attached to certain attestations & verifiable credentials)
+  - Governing the Identity Network (the rights attached to certain attestations & verifiable credentials)
 
 - The follow up steps would be to create a DAO for the LCU 
 - Relation to Lisk (sponsor, create proof of concept)
 
 #### MVP Use case
+- Register DID on a Lisk Sidechain with LiskID (wallet) as identifiable object (identity)
+- Assign "LCU Member" attestation to the account
+- LCU Community DAO
 
 #### Onboarding
 
@@ -85,18 +94,12 @@ Attributes
 - Less or trustless model: preferably the trustless solution (otherwise you can not create an identity, or a company can revoke your identity)
 - only able to revoke attestations
 
-## Next step
----> **First**
-- write down the 3 best use cases for DID
-- comparison between Trustless & Less 
-- Possible attributes of DID
----> **Follow Up**
-- Blockchain in a day - by Peter
 
-## Questions to answer afterwards
+
+## Questions to answer afterwards (in blogpost)
 - Why use a blockchain with digital identity? 
 - What is the difference between a trusted and trustless model?
-
+-
 
 ### Inspiration
 Linkages to other projects
