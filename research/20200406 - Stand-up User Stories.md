@@ -33,7 +33,8 @@ Why do I want to have this identity?
 - Establish someones identity 
 - Provide "contributing member" credentials
 
-- Establishing identity by peer identification
+- Establishing identity by peer identification?
+
 - DID is for broader use
 - LCU DID: used for getting specific things (credits, credentials, regulations, etc.)
 Attributes
@@ -41,9 +42,9 @@ Attributes
 
 - reward users knoewledge attestations for attending workshops or seminars
 
-##### Questions 
+**Questions regarding Identity**
+- How to validate the first step?
 - I miss an overview of all community members (and skillset)
-- 
 
 #### Attestation / attributes
 - Use did to get to know a member better (What that person is interested in, confirmed past project)
