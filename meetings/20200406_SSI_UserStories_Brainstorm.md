@@ -1,4 +1,4 @@
-## Meeting Stand-up User Stories
+## Meeting Stand-up User Stories (brainstorm)
 Learn more about the community [here](https://www.liskcenter.io/community/)
 
 * Lead = Xinrong Ding (Design Thinker) 
@@ -12,23 +12,16 @@ Learn more about the community [here](https://www.liskcenter.io/community/)
 ## Why would you want this kind of identity? 
 
 
-## User Stories
+# User Stories
 ### Dimensions 
-* Organization (governance)
 * Identity 
-* Attestation / attributes
+* Attestation / attributes / Verifiable Credentials
 * Technology
+* Organization (governance)
 * MVP Use case
 * Onboarding
 
-#### Organization
-- Govern the members together
-- Governing the Identity Network (the rights attached to certain attestations & verifiable credentials)
-- DAO for LCU 
-- Relation to Lisk (sponsor, create proof of concept)
-- As an LCU members, I want to know what other members are working on so that I can collaborate with them.
-
-#### Identity 
+#### Identity / DID
 - Establish someones identity 
 - 2 kinds of identities: known (humans) & unknown (only contributors)
 - Provide "contributing member" credentials
@@ -62,9 +55,21 @@ Attributes
 **Questions regarding**
 - Rights attached to certain attestation
 
+
 #### Technology
 - Requirements --> based on the LiskSDK
 - Being compatible with existing and future solutions
+
+**Questions regarding Technology**
+- Which existing and future solutions should the network be compatible with?
+
+#### Organization
+- Govern the members together
+- Governing the Identity Network (the rights attached to certain attestations & verifiable credentials)
+- DAO for LCU 
+- Relation to Lisk (sponsor, create proof of concept)
+- As an LCU members, I want to know what other members are working on so that I can collaborate with them.
+
 
 #### MVP Use case
 
