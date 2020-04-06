@@ -5,11 +5,13 @@ Learn more about the community [here](https://www.liskcenter.io/community/)
 # The Project Process
 
 ## Next Meeting (week of eastern)
----> **First**
+
+**First** (date to be decided)
 - write down the 3 best use cases for DID
 - comparison between Trustless & Less 
 - Possible attributes of DID
----> **Follow Up**
+
+**Second**
 - Blockchain in a day - by Peter
 
 ## This meeting
@@ -41,24 +43,20 @@ Learn more about the community [here](https://www.liskcenter.io/community/)
 - confirm with digital signature
 - acquire project members
 - What matters is what you do (within the community)
+- Preferably no multiple ID for one person
 
 *questions that arise*
-- How to validate a DID (e.g. social reputation?) 
+- How to validate a DID (e.g. social reputation? Or should this only be an attestation?) 
 - Which information is needed to be validated?
-- reward users, knowledge attestations for attending workshops or seminars
-
-**Questions regarding Identity**
-- How to validate a DID? 
-- I miss an overview of all community members (and skillset)
 
 #### Attestation / attributes (verifiable credential)
 - Use did to get to know a member better (What that person is interested in, confirmed past project)
-- Preferably no multiple ID for one person
 - Digital, signature
 - Validation of the attestation (by the lisk center for example)
-- The process by which certain 
+- reward users, knowledge attestations for attending workshops or seminars
+- I miss an overview of all community members (and skillset)
 
-**Questions regarding**
+*Questions regarding*
 - Rights attached to certain attestation
 - How to allow a third party to provide attestations?
 
@@ -66,10 +64,13 @@ Learn more about the community [here](https://www.liskcenter.io/community/)
 - Requirements --> based on the [LiskSDK](lisk.io)
 - Being compatible with existing and future solutions 
 
-**Questions regarding Technology**
+*Questions regarding Technology*
+- What is the advantage of using LiskSDK?
 - Which existing and future solutions should the network be compatible with?
 
 #### Organization
+The digital identity will be used by the LCU Community to be able to provide verifiable credentials and in the long run to be able to manage the community (and its projects) in a decentralised manner. 
+
 - Off-Chain Community: Governance of the LCU Community
   - To coordinate the members together
   - As an LCU members, I want to know what other members are working on so that I can collaborate with them.
@@ -90,18 +91,15 @@ Learn more about the community [here](https://www.liskcenter.io/community/)
 #### Open & Federated 
 - Open everybody can validate 
 - Federated: not everybody 
-
 - Less or trustless model: preferably the trustless solution (otherwise you can not create an identity, or a company can revoke your identity)
 - only able to revoke attestations
 
 
-
-## Questions to answer afterwards (in blogpost)
+# Questions to answer afterwards (in blogpost)
 - Why use a blockchain with digital identity? 
 - What is the difference between a trusted and trustless model?
--
 
-### Inspiration
+## Inspiration
 Linkages to other projects
 - utilizing social reputation in SSI solution - On EOSIO
 
