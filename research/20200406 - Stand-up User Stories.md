@@ -1,6 +1,7 @@
 ## Meeting Stand-up User Stories
-* Moderator = Xinrong Ding (Design Thinker) 
 Learn more about the community [here](https://www.liskcenter.io/community/)
+
+* Lead = Xinrong Ding (Design Thinker) 
 
 
 ### Start meeting
@@ -8,12 +9,8 @@ Learn more about the community [here](https://www.liskcenter.io/community/)
 * "it is a mixture of solutions and what we want to have"
 
 
-Identity:
-* you want to use identity to make use of specific serivce
-
-Why do I want to have this identity? 
-
 ## Why would you want this kind of identity? 
+
 
 ## User Stories
 ### Dimensions 
@@ -58,9 +55,7 @@ Attributes
 - DID associates with real life person
 - Preferably no multiple ID for one person
 - Digital, signature
-
 - Lisk center allows a third party to provide attestations 
-
 - Validation of the attestation (by the lisk center for example)
 - The process by which certain 
 
@@ -89,6 +84,10 @@ Attributes
 - Possible attributes of DID
 ---> **Follow Up**
 - Blockchain in a day - by Peter
+
+## Questions to answer afterwards
+- Why use a blockchain with digital identity? 
+- What is the difference between a trusted and trustless model?
 
 
 ### Inspiration
