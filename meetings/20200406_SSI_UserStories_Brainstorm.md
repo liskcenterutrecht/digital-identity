@@ -22,8 +22,9 @@ LCU Community page [here](https://www.liskcenter.io/community/)
 * "it is a mixture of solutions and what we want to have"
 
 
-# Goal: What does Lisk Center want to be able to do?**
+# Goal: What does Lisk Center want to be able to do?
 Lisk Center Utrecht would like to be able to provide digital identities an LCU Member attestation and manage these attestations. 
+And be able to leverage the full blockchain ecosystem with its solution.
 
 # User Stories
 
