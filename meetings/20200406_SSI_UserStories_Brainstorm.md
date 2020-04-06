@@ -65,8 +65,8 @@ Attributes
 
 #### Organization
 - Off-Chain Community: Governance of the LCU Community
--- To coordinate the members together
--- As an LCU members, I want to know what other members are working on so that I can collaborate with them.
+  - To coordinate the members together
+  - As an LCU members, I want to know what other members are working on so that I can collaborate with them.
 
 - On Chain: Governance of the Identity network 
 -- Governing the Identity Network (the rights attached to certain attestations & verifiable credentials)
