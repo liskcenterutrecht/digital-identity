@@ -64,12 +64,15 @@ Attributes
 - Which existing and future solutions should the network be compatible with?
 
 #### Organization
-- Govern the members together
-- Governing the Identity Network (the rights attached to certain attestations & verifiable credentials)
-- DAO for LCU 
-- Relation to Lisk (sponsor, create proof of concept)
-- As an LCU members, I want to know what other members are working on so that I can collaborate with them.
+- Off-Chain Community: Governance of the LCU Community
+-- To coordinate the members together
+-- As an LCU members, I want to know what other members are working on so that I can collaborate with them.
 
+- On Chain: Governance of the Identity network 
+-- Governing the Identity Network (the rights attached to certain attestations & verifiable credentials)
+
+- The follow up steps would be to create a DAO for the LCU 
+- Relation to Lisk (sponsor, create proof of concept)
 
 #### MVP Use case
 
