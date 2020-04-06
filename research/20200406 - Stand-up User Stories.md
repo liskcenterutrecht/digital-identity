@@ -1,7 +1,7 @@
 ## Meeting Stand-up User Stories
-* Moderator = Xinrong Ding (Design Thinker)
+* Moderator = Xinrong Ding (Design Thinker) 
+Learn more about the community [here](https://www.liskcenter.io/community/)
 
-* attendees: CasparGimly, 
 
 ### Start meeting
 * Quick recap of Study Day Stories
