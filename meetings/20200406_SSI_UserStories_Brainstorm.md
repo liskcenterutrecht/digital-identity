@@ -5,7 +5,7 @@ LCU Community page [here](https://www.liskcenter.io/community/)
 
 # The Project Process
 
-## Next Meeting (week of eastern)
+### Next Meeting (week of eastern)
 
 **First** (date to be decided)
 - write down the 3 best use cases for DID
@@ -15,12 +15,11 @@ LCU Community page [here](https://www.liskcenter.io/community/)
 **Second**
 - Blockchain in a day - by Peter
 
-## This meeting
+### This meeting
 * Lead = Xinrong Ding (Design Thinker) 
 
 * Quick recap of Study Day Stories
-* "it is a mixture of solutions and what we want to have"
-
+* Notes taken during the stand-up: https://www.webwhiteboard.com/board/65aaypyt
 
 # Goal: What does Lisk Center want to be able to do?
 Lisk Center Utrecht would like to be able to provide digital identities an LCU Member attestation and manage these attestations. 
