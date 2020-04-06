@@ -1,6 +1,7 @@
 
 # Meeting SSI User Stories Brainstorm
-Learn more about the community [here](https://www.liskcenter.io/community/)
+Project Page [LCU Digital Identity](https://www.liskcenter.io/projects/digital-identity)
+LCU Community page [here](https://www.liskcenter.io/community/)
 
 # The Project Process
 
@@ -20,7 +21,12 @@ Learn more about the community [here](https://www.liskcenter.io/community/)
 * Quick recap of Study Day Stories
 * "it is a mixture of solutions and what we want to have"
 
+
+# Goal: What does Lisk Center want to be able to do?**
+Lisk Center Utrecht would like to be able to provide digital identities an LCU Member attestation and manage these attestations. 
+
 # User Stories
+
 ### Dimensions 
 * Identity 
 * Attestation / attributes / Verifiable Credentials
@@ -30,8 +36,7 @@ Learn more about the community [here](https://www.liskcenter.io/community/)
 * Onboarding
 
 #### Identity / DID
-- Establish someones digital identity 
-- 2 kinds of identities: known (humans) & unknown (only contributors) ?
+- Establish a digital identity 
 - Provide "contributing member" credentials
 
 - Establishing identity by peer identification?
@@ -81,18 +86,9 @@ The digital identity will be used by the LCU Community to be able to provide ver
 - The follow up steps would be to create a DAO for the LCU 
 - Relation to Lisk (sponsor, create proof of concept)
 
-#### MVP Use case
+# MVP Use case
 - Register DID on a Lisk Sidechain with LiskID (wallet) as identifiable object (identity)
-- Assign "LCU Member" attestation to the account
-- LCU Community DAO
-
-#### Onboarding
-
-#### Open & Federated 
-- Open everybody can validate 
-- Federated: not everybody 
-- Less or trustless model: preferably the trustless solution (otherwise you can not create an identity, or a company can revoke your identity)
-- only able to revoke attestations
+- Assign "LCU Member" attestation 
 
 
 # Questions to answer afterwards (in blogpost)
