@@ -25,17 +25,33 @@ Why do I want to have this identity?
 * MVP Use case
 * Onboarding
 
+#### Organization
+-
+
+
 #### Identity 
+- Establish someones identity 
+- Provide "contributing member" credentials
+
+- Establishing identity by peer identification
 - DID is for broader use
 - LCU DID: used for getting specific things (credits, credentials, regulations, etc.)
 Attributes
 - confirm it is use & a digital signature
+
+- reward users knoewledge attestations for attending workshops or seminars
+
+##### Questions 
+- I miss an overview of all community members (and skillset)
+- 
 
 #### Attestation / attributes
 - Use did to get to know a member better (What that person is interested in, confirmed past project)
 - DID associates with real life person
 - Preferably no multiple ID for one person
 - Digital, signature
+
+- Lisk center allows a third party to provide attestations 
 
 #### Technology
 #### MVP Use case
