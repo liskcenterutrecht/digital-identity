@@ -15,7 +15,6 @@ Why do I want to have this identity?
 
 ## Why would you want this kind of identity? 
 
-
 ## User Stories
 ### Dimensions 
 * Organization (governance)
@@ -28,7 +27,9 @@ Why do I want to have this identity?
 #### Organization
 - Govern the members together
 - Governing the Identity Network (the rights attached to certain attestations & verifiable credentials)
-
+- DAO for LCU 
+- Relation to Lisk (sponsor, create proof of concept)
+- As an LCU members, I want to know what other members are working on so that I can collaborate with them.
 
 #### Identity 
 - Establish someones identity 
@@ -52,7 +53,6 @@ Attributes
 - How to validate the first step?
 - I miss an overview of all community members (and skillset)
 
-
 #### Attestation / attributes (verifiable credential)
 - Use did to get to know a member better (What that person is interested in, confirmed past project)
 - DID associates with real life person
@@ -68,6 +68,8 @@ Attributes
 - Rights attached to certain attestation
 
 #### Technology
+- Requirements --> based on the LiskSDK
+- Being compatible with existing and future solutions
 
 #### MVP Use case
 
@@ -80,6 +82,13 @@ Attributes
 - Less or trustless model: preferably the trustless solution (otherwise you can not create an identity, or a company can revoke your identity)
 - only able to revoke attestations
 
+## Next step
+---> **First**
+- write down the 3 best use cases for DID
+- comparison between Trustless & Less 
+- Possible attributes of DID
+---> **Follow Up**
+- Blockchain in a day - by Peter
 
 
 ### Inspiration
