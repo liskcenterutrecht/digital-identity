@@ -10,12 +10,11 @@ Create a digital identity solution for LCU Community Members.
 
 # Timeline
 
-### Meetings
-* 200315  - First Call (creation of the discord channel) 
-* 200402  - Study Day & forming project team - [meetup](https://www.meetup.com/LiskCenterUtrecht/events/269598831/) [notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/20200402_SSI%20Study%20Day.md)
-* 200606  - Stand-up User Stories [Meetup](https://www.meetup.com/LiskCenterUtrecht/events/269810292/) [notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/20200406_SSI_UserStories_Brainstorm.md)
+* 200315  - **[call]** First Call (creation of the discord channel) 
+* 200402  - **[Online Meeting]** Study Day & forming project team - [meetup](https://www.meetup.com/LiskCenterUtrecht/events/269598831/) [notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/20200402_SSI%20Study%20Day.md)
+* 200606  - **[Online Meeting]** Stand-up User Stories [Meetup](https://www.meetup.com/LiskCenterUtrecht/events/269810292/) [notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/20200406_SSI_UserStories_Brainstorm.md)
 * 200409  - *added notes from Lisk Center Utrecht [ ]()
-* 200414  - **NEXT MEETING TUESTDAY 14TH OF APRIL**  - Catch Up & Stand-up [meetup](https://www.meetup.com/LiskCenterUtrecht/events/269947109/)
+* 200414  - **NEXT ONLINE MEETING TUESDAY 14TH OF APRIL**  - Catch Up & Stand-up [meetup](https://www.meetup.com/LiskCenterUtrecht/events/269947109/)
 
 ### Opening Message
 Hi lovely fellow community members! 
