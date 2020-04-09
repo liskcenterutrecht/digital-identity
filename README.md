@@ -23,4 +23,5 @@ why?  - To learn, to experiment with, and because we can!
 It is an open call. So everybody who likes to join can join. 
 
 If you would like to take up a certain part of the project just let us know and we will put your name to the job.
+**Join the Discord** channel to stay up-to-date  https://discord.gg/BQt8tUF
 
