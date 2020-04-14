@@ -15,7 +15,7 @@ Create a digital identity solution for LCU Community Members.
 * 200409  - *added notes "3 best use cases for Digital identity (according to LCU Board & Community)"* [Read notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/200409_notes.md)
 * 200410  - Working document for LCU DAO [@google docs](https://bit.ly/lcu-dao)
 * 200414  - Catch Up & Stand-up [notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/20200414_notes.md) - [meetup](https://www.meetup.com/LiskCenterUtrecht/events/269947109/) | **Online Meeting**
-* 200414  - **NEXT ONLINE MEETING MONDAY 20TH OF APRIL**  - Catch Up & Stand-up [meetup](https://www.meetup.com/LiskCenterUtrecht/events/269947109/) | **Online Meeting**
+* 200414  - **NEXT ONLINE MEETING MONDAY 20TH OF APRIL**  - Catch Up & Stand-up [meetup](https://www.meetup.com/LiskCenterUtrecht/events/270039185/) | **Online Meeting**
 
 
 ### Opening Message
