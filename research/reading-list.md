@@ -9,6 +9,7 @@
 - *CANCELLED* Utrecht Blockchain Nights - Digital Identity | [Meetup.com](https://www.meetup.com/LiskCenterUtrecht/events/267874244/)
 - Utrecht Blockchain Nights - Oct 24th 2019 - Rabobank & IOTA | [Meetup.com](https://www.meetup.com/LiskCenterUtrecht/events/264746841/) - [video](https://www.youtube.com/watch?v=7B3IXr-0LGY)
 - Self Sovereign Identity using the blockchain - Sovrin & TYKN | [Meetup.com](https://www.meetup.com/LiskCenterUtrecht/events/260502863/) - [video](https://www.youtube.com/watch?v=vsacB66tMBg)
+- Book Self Sovereign Identity - Preukschat & Reed | [book](https://www.manning.com/books/self-sovereign-identity)
 
 ### Inspiration 
 - Christopher Allen - Talk | [video](https://www.youtube.com/watch?v=2g6KSv1aeuI)
@@ -30,6 +31,8 @@
   - [#3: What Are Decentralized Identifiers (DID)?](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84ZGZiZjk0L3BvZGNhc3QvcnNz&episode=ZGQ4NjJhZDMtNmVkNi1hMGU4LWU5OWUtNGUwNzY0ODBjOTUz&ved=0CAYQzsICahcKEwiIx8ewz6PoAhUAAAAAHQAAAAAQEQ)
   - [#4: ( Part 1/2) How do Decentralized Identifiers (DID) work?](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84ZGZiZjk0L3BvZGNhc3QvcnNz&episode=MzcwZjBkNzctZTNkOS0zNGNkLWI4ZGItYWRkMjY3ZDNlZTA4&ved=0CAQQzsICahcKEwiIx8ewz6PoAhUAAAAAHQAAAAAQEQ)
   - [#5: (Part 2/2) How Do Identity Hubs, Claims, & Verified Credentials Work with DIDs?](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy84ZGZiZjk0L3BvZGNhc3QvcnNz&episode=MDY0MzYxZTEtMDVmZS05YmUyLWVlOWUtYWU5NmRjNmE4NzU1&ved=0CAIQkfYCahcKEwiIx8ewz6PoAhUAAAAAHQAAAAAQEQ)
+
+- OWI Podcast interview with Preukschat and Reed about their book about SSI - [podcast](https://oneworldidentity.com/podcast/evernym/)
   
   
 # Related Identity Solutions (examples)
