@@ -7,7 +7,6 @@ Create a digital identity solution for LCU Community Members.
 - The digital identity solution for the LCU Community focuses on claims to be made within the LCU Community.
 - It can be used to proof being part of the community and build reputation within it.  
 
-
 # Timeline
 |When|Subject|What|
 |---|---|---|
@@ -21,7 +20,8 @@ Create a digital identity solution for LCU Community Members.
 |200421|Catch Up & Stand-up [notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/20200421_notes.md) [meetup](https://www.meetup.com/LiskCenterUtrecht/events/270039185/) | **Online Meeting**
 |200427|**NEXT ONLINE MEETING TUESDAY 28TH OF APRIL AT 10:00 AM** [meetup](https://www.meetup.com/LiskCenterUtrecht/events/270173584/)
 
-### Opening Message
+## Opening Message
+
 Hi lovely fellow community members!  
 
 We would like to start a project to build a Digital Identity solution for the LCU Community.
@@ -37,5 +37,5 @@ It is an open call. So everybody who likes to join can join.
 If you would like to take up a certain part of the project just let us know and we will put your name to the job.
 **Join the Discord** channel to stay up-to-date  https://discord.gg/BQt8tUF
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODY5MTc5MzRdfQ==
+eyJoaXN0b3J5IjpbLTEyOTgzMjkzMV19
 -->
