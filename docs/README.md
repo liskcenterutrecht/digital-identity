@@ -6,6 +6,7 @@ Create a digital identity solution for LCU Community Members.
 
 - The digital identity solution for the LCU Community focuses on claims to be made within the LCU Community.
 - It can be used to proof being part of the community and build reputation within it.  
+#add a test session
 
 # Timeline
 |When|Subject|What|
