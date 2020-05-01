@@ -6,7 +6,8 @@ Create a digital identity solution for LCU Community Members.
 
 - The digital identity solution for the LCU Community focuses on claims to be made within the LCU Community.
 - It can be used to proof being part of the community and build reputation within it.  
-#add a test session
+
+# Add a test session
 
 # Timeline
 |When|Subject|What|
@@ -38,5 +39,5 @@ It is an open call. So everybody who likes to join can join.
 If you would like to take up a certain part of the project just let us know and we will put your name to the job.
 **Join the Discord** channel to stay up-to-date  https://discord.gg/BQt8tUF
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTgzMjkzMV19
+eyJoaXN0b3J5IjpbMTM1OTkyODM2LC0xMjk4MzI5MzFdfQ==
 -->
