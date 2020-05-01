@@ -13,13 +13,13 @@ Create a digital identity solution for LCU Community Members.
 |---|---|---|
 |200315|First Call (creation of the discord channel)|**Call**
 |200315|First Call (creation of the discord channel)|**Call**|
-|200402|Study Day & forming project team - [meetup](https://www.meetup.com/LiskCenterUtrecht/events/269598831/) [notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/20200402_SSI%20Study%20Day.md) | **Online Meeting**
-|200606  - Stand-up User Stories [meetup](https://www.meetup.com/LiskCenterUtrecht/events/269810292/) [notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/20200406_SSI_UserStories_Brainstorm.md) | **Online Meeting**
-* 200409  - *added notes "3 best use cases for Digital identity (according to LCU Board & Community)"* [Read notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/200409_notes.md)
-* 200410  - Working document for LCU DAO [@google docs](https://bit.ly/lcu-dao)
-* 200414  - Catch Up & Stand-up [notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/20200414_notes.md) - [meetup](https://www.meetup.com/LiskCenterUtrecht/events/269947109/) | **Online Meeting**
-* 200421  - Catch Up & Stand-up [notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/20200421_notes.md) [meetup](https://www.meetup.com/LiskCenterUtrecht/events/270039185/) | **Online Meeting**
-* 200427  - **NEXT ONLINE MEETING TUESDAY 28TH OF APRIL AT 10:00 AM** [meetup](https://www.meetup.com/LiskCenterUtrecht/events/270173584/)
+|200402|Study Day & forming project team [meetup](https://www.meetup.com/LiskCenterUtrecht/events/269598831/) [notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/20200402_SSI%20Study%20Day.md) | **Online Meeting**
+|200606|Stand-up User Stories [meetup](https://www.meetup.com/LiskCenterUtrecht/events/269810292/) [notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/20200406_SSI_UserStories_Brainstorm.md) | **Online Meeting**
+|200409|*added notes "3 best use cases for Digital identity (according to LCU Board & Community)"* [Read notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/200409_notes.md)
+|200410|Working document for LCU DAO [@google docs](https://bit.ly/lcu-dao)
+|200414|Catch Up & Stand-up [notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/20200414_notes.md) - [meetup](https://www.meetup.com/LiskCenterUtrecht/events/269947109/) | **Online Meeting**
+|200421  - Catch Up & Stand-up [notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/20200421_notes.md) [meetup](https://www.meetup.com/LiskCenterUtrecht/events/270039185/) | **Online Meeting**
+|200427|**NEXT ONLINE MEETING TUESDAY 28TH OF APRIL AT 10:00 AM** [meetup](https://www.meetup.com/LiskCenterUtrecht/events/270173584/)
 
 
 
@@ -39,5 +39,5 @@ It is an open call. So everybody who likes to join can join.
 If you would like to take up a certain part of the project just let us know and we will put your name to the job.
 **Join the Discord** channel to stay up-to-date  https://discord.gg/BQt8tUF
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjU5NDQ4MjFdfQ==
+eyJoaXN0b3J5IjpbODY4Mjg0Mjk1XX0=
 -->
