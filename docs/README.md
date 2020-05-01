@@ -18,13 +18,11 @@ Create a digital identity solution for LCU Community Members.
 |200409|*added notes "3 best use cases for Digital identity (according to LCU Board & Community)"* [Read notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/200409_notes.md)
 |200410|Working document for LCU DAO [@google docs](https://bit.ly/lcu-dao)
 |200414|Catch Up & Stand-up [notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/20200414_notes.md) - [meetup](https://www.meetup.com/LiskCenterUtrecht/events/269947109/) | **Online Meeting**
-|200421  - Catch Up & Stand-up [notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/20200421_notes.md) [meetup](https://www.meetup.com/LiskCenterUtrecht/events/270039185/) | **Online Meeting**
+|200421|Catch Up & Stand-up [notes](https://github.com/liskcenterutrecht/digital-identity/blob/master/meetings/20200421_notes.md) [meetup](https://www.meetup.com/LiskCenterUtrecht/events/270039185/) | **Online Meeting**
 |200427|**NEXT ONLINE MEETING TUESDAY 28TH OF APRIL AT 10:00 AM** [meetup](https://www.meetup.com/LiskCenterUtrecht/events/270173584/)
 
-
-
 ### Opening Message
-Hi lovely fellow community members!
+Hi lovely fellow community members!  
 
 We would like to start a project to build a Digital Identity solution for the LCU Community.
 
@@ -39,5 +37,5 @@ It is an open call. So everybody who likes to join can join.
 If you would like to take up a certain part of the project just let us know and we will put your name to the job.
 **Join the Discord** channel to stay up-to-date  https://discord.gg/BQt8tUF
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4Mjg0Mjk1XX0=
+eyJoaXN0b3J5IjpbLTEyODY5MTc5MzRdfQ==
 -->
