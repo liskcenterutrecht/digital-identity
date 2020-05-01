@@ -10,6 +10,7 @@ Create a digital identity solution for LCU Community Members.
 # Add a test session
 
 # Timeline
+
 |When|Subject|What|
 |---|---|---|
 |200315|First Call (creation of the discord channel)|**Call**
@@ -39,5 +40,5 @@ It is an open call. So everybody who likes to join can join.
 If you would like to take up a certain part of the project just let us know and we will put your name to the job.
 **Join the Discord** channel to stay up-to-date  https://discord.gg/BQt8tUF
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1OTkyODM2LC0xMjk4MzI5MzFdfQ==
+eyJoaXN0b3J5IjpbMTE1NDM0NTIzOCwtMTI5ODMyOTMxXX0=
 -->
